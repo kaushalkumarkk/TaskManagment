@@ -13,6 +13,7 @@ Filtering tasks by status
 
 Real-time toast notifications
 
+
 # Technologies Used
 
 # Frontend:
